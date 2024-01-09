@@ -1,5 +1,1 @@
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
+"ini file pertama saya digithub"
